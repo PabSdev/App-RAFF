@@ -1,5 +1,5 @@
 RASFF Alerts Extractor
-Esta aplicación en Python extrae alertas de seguridad alimentaria desde la web de RASFF y las guarda en un archivo Excel. Usa Selenium para la automatización web, Pandas para el manejo de datos y Flet para la interfaz gráfica.
+Aplicación en Python extrae alertas de seguridad alimentaria desde la web de RASFF y las guarda en un archivo Excel. Usa Selenium para la automatización web, Pandas para el manejo de datos y Flet para la interfaz gráfica.
 
 CARACTERÍSTICAS
 
