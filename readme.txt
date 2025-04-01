@@ -1,4 +1,4 @@
-# RASFF Alerts Extractor
+<em> RASFF Alerts Extractor </em>
 
 Este proyecto es una aplicación en **Python** que extrae alertas de seguridad alimentaria desde la web de **RASFF** y las guarda en un archivo **Excel**. Usa **Selenium** para la automatización web, **Pandas** para el manejo de datos y **Flet** para la interfaz gráfica.
 
